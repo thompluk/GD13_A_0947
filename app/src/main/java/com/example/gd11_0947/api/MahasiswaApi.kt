@@ -2,6 +2,7 @@ package com.example.gd11_0947.api
 
 class MahasiswaApi {
     companion object{
+
         val BASE_URL = "https://6368bba315219b84960558d7.mockapi.io/api/"
 
         val GET_ALL_URL = BASE_URL + "mahasiswa/"
